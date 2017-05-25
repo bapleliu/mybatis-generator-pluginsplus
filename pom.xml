@@ -22,7 +22,6 @@
 
     <modules>
         <module>mybatis-generator-pluginsplus</module>
-        <module>mybatis-generator-pluginsplus-tests</module>
     </modules>
 
     <dependencies>
